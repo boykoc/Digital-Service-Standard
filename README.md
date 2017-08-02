@@ -68,6 +68,7 @@ At a minimum:
 * dedicate one user researcher on the project for at least 3 days each
   week
 * identify gaps in the team and fill them
+* show that your team is large enough to handle the scope of work
 * transfer knowledge and skills to others
 * continue to improve the service after it’s gone live
 
