@@ -67,6 +67,7 @@ At a minimum:
   improve the service
 * dedicate one user researcher on the project for at least 3 days each
   week
+* consult with teams that work with users in non-digital channels: correspondence, call centre, program area and policy staff
 * identify gaps in the team and fill them
 * show that your team is large enough to handle the scope of work
 * transfer knowledge and skills to others
