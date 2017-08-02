@@ -93,7 +93,7 @@ experiences. When thinking about users, it’s important to find people
 with different experiences and perspectives.
 
 Get to know your users and their needs from their point of view – beyond
-the lens of the project.
+the lens of the project. Interview users to find out their habits, personality traits, attitudes and motives which can be used to create personas and/or research their demographics such as gender, age, location, income and family size using Statistics Canada, Stakeholder organization data and other sources.
 
 Taking the time to understand the people who use your service will help:
 
