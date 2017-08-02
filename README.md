@@ -72,6 +72,7 @@ At a minimum:
 * transfer knowledge and skills to others
 * continue to improve the service after it’s gone live
 * involve the team that will maintain the service early on in the project
+* assign a product owner who will have ongoing responsibility for the service after it launches
 
 ## 2 — Understand users and their needs
 
